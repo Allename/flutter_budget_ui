@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_budget_ui/data/data.dart';
+import 'package:flutter_budget_ui/widgets/bar_chart.dart';
 
 class HomeScreen extends StatefulWidget {
   @override
